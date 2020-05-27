@@ -10,7 +10,7 @@ permalink: /Info
 In collaboration with the Andelfinger lab we generated a <a href="http://andelfingerlab.heart_maturation.genap.ca/"> heart mouse maturation atlas</a> from 14.5 to adult stages, which is freely available for exploration.
 
 
-# Collaboration
+# Collaborations
 <a href="https://www.kompetenznetz-ahf.de/">Kompetenznetzwerk AHF</a> <br />
 <a href="https://www.andelfingerlab.com/">Gregor Andelfinger</a> <br />
 <a href="https://www.sanger.ac.uk/people/directory/hurles-matthew">Matthew Hurles</a> <br />
