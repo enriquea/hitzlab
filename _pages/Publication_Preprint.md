@@ -7,7 +7,7 @@ permalink: /Publication_Preprint/
 ---
 
 
-# Publication highlights
+# Highlights
 
 {% for publi in site.data.publist %}
 
@@ -16,7 +16,7 @@ permalink: /Publication_Preprint/
 
 {% endfor %}
 
-# All publications
+# Publications
 
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Hitz+MP%5BAuthor%5D">Pubmed</a> <br />
 
