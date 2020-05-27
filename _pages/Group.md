@@ -8,7 +8,7 @@ permalink: /Group/
 
 # Group Members
 
- **We are  looking new students to join the group** [(see openings)]({{ site.url }}{{ site.baseurl }}/Jobs) **!**
+ **We are looking for new students to join our group** [(see openings)]({{ site.url }}{{ site.baseurl }}/Jobs) **!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [former students](#former-students).
