@@ -14,10 +14,10 @@ Although numerous causes have been proposed ranging from environmental to geneti
 
 Nevertheless, some of these factors can be overcome by national registries and recent advances in next-generation sequencing technologies. Diagnostic yields have dramatically increased over the years reaching now levels of ~30% and more in defined CHD groups (Homsy et al., 2015; Sifrim and Hitz et al., 2016; Zaidi et al., 2013). Therefore, detailed phenotyping combined with reliable genome-wide gene discovery will enable disease risk prediction and comprehensive counselling about re-occurrence rates and inheritance pattern, not to mention risk prediction for primary and secondary patient outcome.
 
-To tackle these important research aspects in the field of CHD we primarily focuses on the following research projects:
+To tackle these important research aspects in the field of CHD we primarily focus on the following research projects:
 
 - Large-scale Next-Generation Sequencing of nation-wide cohorts to identify genes associated with Congenital Heart Defects (CHD).
 
 - Functional follow-up downstream characterization of novel CHD genes using genome editing in model organisms (e.g. Zebrafish and Mouse).
 
-- Single –cell-sequencing to understand heart development in diseased and non-diseased model organisms and human heart tissue samples.
+- Single –cell-sequencing to understand heart development in disease and non-disease model organisms and human heart tissue samples.
