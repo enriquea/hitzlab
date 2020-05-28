@@ -1,10 +1,10 @@
 - name: Marc-Phillip Hitz
   photo: MPH.jpg
-  info: MD, PhD, MHM, Associate Professor (DZHK)
-  email: Marc-Philipp.Hitz@uksh.de
+  info: MD, PhD, MHM, DZHK Professor
+  email: Marc-Phillip.hitz@uksh.de
   number_educ: 4
   education1: MD, Georg-August University Göttingen
-  education2: Medical Hospital Management, University for Applied Science, Hannover  
+  education2: Medical Hospital Management, University for Applied Science, Hanover  
   education3: Clinical PhD, Wellcome Trust Sanger Institute, University of Cambridge, UK
   education4: Board certified Pediatrician and Clinical Geneticist
 
@@ -21,8 +21,8 @@
   info: Dr. rer. nat.
   email: Kirstin.Hoff@uksh.de
   number_educ: 4
-  education1: B.Sc. Biotechnology, Leibniz University Hannover
-  education2: M.Sc. Biomedicine, Hannover Medical School (MHH)
+  education1: B.Sc. Biotechnology, Leibniz University Hanover
+  education2: M.Sc. Biomedicine, Hanover Medical School (MHH)
   education3: PhD, Christian-Albrechts University Kiel
   education4: Postdoc Cardiovascular Genetics, University Hospital Schleswig-Holstein, Kiel
   
@@ -65,19 +65,10 @@
   education1: B.Sc. Biochemistry, Christian-Albrechts University Kiel
   education2: M.Sc. Biochemistry, Christian-Albrechts University Kiel
 
-- name: Saranya Balachandran
-  photo: SB.jpg
-  info: Bioinformatician, M.Sc.
-  email: sbalachandran@medgen.uni-kiel.de
-  number_educ: 3
-  education1: B.Sc., Karunya Institute of Technology and Sciences
-  education2: M.Sc. Algorithms for Computational Genomics, Saarland University
-  education3: Scientist, Institute of Human Genetics, University Hospital Schleswig-Holstein, Kiel
-
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="http://www.hitzlab.de/jobs">openings</a> for more info
+  email: Marc-Phillip.hitz@uksh.de
   number_educ: 0
   education1:
   education2:

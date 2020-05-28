@@ -10,8 +10,8 @@ permalink: /Dates.html
 
 Every Monday at 13-15 in Konferenzraum Quincke Forschungsgebäude.
 
-02.12.2019  Saranya
+02.06.2020  Asal/Enrique
 
-09.12.2019  Enrique
+08.06.2020  Saranya/Gregor
 
-16.12.2019  Asal
+15.06.2020  
