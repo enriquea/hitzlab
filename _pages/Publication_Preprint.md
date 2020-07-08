@@ -17,7 +17,6 @@ permalink: /Publication_Preprint/
 {% endfor %}
 
 # Publications and Preprints
-<a
 
 <a href="https://www.biorxiv.org/content/10.1101/2020.06.25.169573v1">Integrative analysis of genomic variants reveals new associations of candidate haploinsufficient genes with congenital heart disease</a> <br />
 
