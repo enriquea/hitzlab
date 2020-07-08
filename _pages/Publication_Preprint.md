@@ -16,7 +16,10 @@ permalink: /Publication_Preprint/
 
 {% endfor %}
 
-# Publications
+# Publications and Preprints
+<a
+
+<a href="https://www.biorxiv.org/content/10.1101/2020.06.25.169573v1">Integrative analysis of genomic variants reveals new associations of candidate haploinsufficient genes with congenital heart disease</a> <br />
 
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Hitz+MP%5BAuthor%5D">Pubmed</a> <br />
 
