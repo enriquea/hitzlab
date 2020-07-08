@@ -5,11 +5,6 @@ excerpt: "Hitz Cardiovascular Genetics Lab. -- Info"
 permalink: /Info
 ---
 
-# Links
-
-In collaboration with the Andelfinger lab we generated a <a href="http://andelfingerlab.heart_maturation.genap.ca/"> heart mouse maturation atlas</a> from 14.5 to adult stages, which is freely available for exploration.
-
-
 # Collaborations
 <a href="https://www.kompetenznetz-ahf.de/">Kompetenznetzwerk AHF</a> <br />
 <a href="https://www.andelfingerlab.com/">Gregor Andelfinger</a> <br />
@@ -19,8 +14,3 @@ In collaboration with the Andelfinger lab we generated a <a href="http://andelfi
 <a href="https://www.medischebiologie.nl/postma-group/">Alex Postma</a> <br />
 <a href="https://lab.research.sickkids.ca/mital/">Seema Mital </a> <br />
 <a href="https://www.uke.de/english/physicians-and-scientists/wissenschaftlerprofilseite_friederike_cuello.html">Frederike Cuello</a> <br />
-
-# Software
-
-
-# Download
