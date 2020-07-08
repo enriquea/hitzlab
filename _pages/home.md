@@ -57,6 +57,6 @@ The main aim of our group is to understand the genetic origin of structural hear
 </div>
 
 
- **We are constantly looking new students to join our group** [(more info)]({{ site.url }}{{ site.baseurl }}/Jobs)
+ **We are constantly looking for new students to join our group** [(more info)]({{ site.url }}{{ site.baseurl }}/Jobs)
 
 
