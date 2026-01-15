@@ -1,5 +1,7 @@
 # Hitz Lab Website
 
+> **Note:** This repository will be archived and is no longer actively maintained.
+
 Website of our academic research group at CAU (website under construction)
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch. We adapted and modified the website from the Allan Lab (https://www.allanlab.org/).
